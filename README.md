@@ -12,4 +12,11 @@ Statistics:
 7. Most frequenly used emojis per contact
 8. Word Cloud
 
+![alt text](Images/display1.png)
+![alt text](Images/display3.png)
+![alt text](Images/display4.png)
+![alt text](Images/display5.png)
+![alt text](Images/display2.png)
+
+
 
